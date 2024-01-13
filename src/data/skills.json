@@ -8,6 +8,10 @@
      "imageSrc": "skills/css.png"
    },
    {
+     "title": "Javascript",
+     "imageSrc": "skills/javascript.png"
+   },
+   {
      "title": "React",
      "imageSrc": "skills/react.png"
    },
@@ -16,13 +20,13 @@
      "imageSrc": "skills/node.png"
    },
    {
-     "title": "Express",
-     "imageSrc": "skills/node.png"
-   },
-   {
      "title": "MongoDB",
      "imageSrc": "skills/mongodb.png"
    },
+   {
+    "title": "Express",
+    "imageSrc": "skills/node.png"
+  },
    {
      "title": "Github",
      "imageSrc": "skills/git.png"
