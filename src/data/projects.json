@@ -1,5 +1,13 @@
 [
    {
+     "title": "MERN Blog",
+     "imageSrc": "projects/project.png",
+     "description": "Blogging website with Admin and User functionality",
+     "skills": ["React","Node","Express","Mongodb"],
+     "demo": "https://iamkoushik1999-mern-blog.onrender.com",
+     "source": "https://github.com/iamkoushik1999/MERN-Blog"
+   },
+   {
      "title": "Voting App",
      "imageSrc": "projects/project.png",
      "description": "This is a project that I tried for the 1st time while I was learning MERN Stack",
