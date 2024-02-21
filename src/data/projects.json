@@ -36,7 +36,7 @@
      "imageSrc": "projects/project.png",
      "description": "This is a project made to learn the latest languages by building an app.",
      "skills": ["React","Node","Express","Mongodb"],
-     "demo": "https://github.com/iamkoushik1999/ToDoApp-Frontend",
+     "demo": "https://iamkoushik1999-todo-frontend.netlify.app",
      "source": "https://github.com/iamkoushik1999/ToDoApp-Server"
    }
  ]
