@@ -3,7 +3,7 @@
      "title": "MERN Blog",
      "imageSrc": "projects/project.png",
      "description": "Blogging website with Admin and User functionality",
-     "skills": ["React","Node","Express","Mongodb, Google OAuth"],
+     "skills": ["React","Node","Express","Mongodb", "Google OAuth"],
      "demo": "https://iamkoushik1999-mern-blog.onrender.com",
      "source": "https://github.com/iamkoushik1999/MERN-Blog"
    },
